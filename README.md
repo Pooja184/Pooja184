@@ -1,9 +1,10 @@
 # 👋 Hi there, I'm Pooja!
+
 - 🔭 I’m currently working on MERN stack projects<br>
-- 🤝 I’m looking to collaborate on open source and MERN Stack-based web apps<br>
-- 🌱 I’m currently learning Angular<br>
-- 💬 Ask me about React, JavaScript, MongoDB, and Express<br>
-- ⚡ Fun fact: My favorite debugger is `console.log()` 😅<br>
+- 🌐 Feel free to explore my projects
+- 🛠️ Raise issues or suggestions — I love feedback!
+- 🤝 Connect with me for collaboration or tech talks
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/pooja_23567) 
