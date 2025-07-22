@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👋 Hi there, I'm Pooja!
 - 🔭 I’m currently working on MERN stack projects<br>
 - 🤝 I’m looking to collaborate on open source and MERN Stack-based web apps<br>
 - 🌱 I’m currently learning Angular<br>
