@@ -5,7 +5,15 @@
 - 🛠️ Raise issues or suggestions — I love feedback!
 - 🤝 Connect with me for collaboration or tech talks
 
+## 🚀 Explore Live Projects
 
+### 🛒 E-commerce Platform  
+- 🛍️ [Shop Frontend](https://e-commercefrontend-omega.vercel.app/)  
+- 🧑‍💼 [Admin Dashboard](https://e-commerceadmin-ivory.vercel.app/)
+
+### 🎮 Mini Games  
+- 🧠 [Simon Game](https://pooja184.github.io/simon-game/)
+  
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/pooja_23567) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bhambidpooja) 
