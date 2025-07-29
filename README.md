@@ -13,6 +13,7 @@
 
 ### 🎮 Mini Games  
 - 🧠 [Simon Game](https://pooja184.github.io/simon-game/)
+- 🎯 [Quiz Game](https://quiz-game-a0334euss-pooja-bhambids-projects.vercel.app/) 
   
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/pooja_23567) 
