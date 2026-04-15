@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Pooja!
 
-- 🔭 Currently building MERN stack projects with a focus on real-world problem solving.
+- 🔭 Currently building Full stack projects with a focus on real-world problem solving.
 - 🌐 Explore my projects to see my work in full-stack development.
 - 🛠️ Open to feedback, suggestions, and issues to improve my work.
 - 🤝 Always excited to collaborate, share knowledge,keep learning and discuss tech ideas.
